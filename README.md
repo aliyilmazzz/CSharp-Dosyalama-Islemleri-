@@ -1,4 +1,4 @@
-# CSharp-Dosyalama-lemleri-
+# CSharp-Dosyalama-Islemleri-
 
 C# Dilinde Dosyalama İşlemleri
  Dosyalama işlemleri klasör ve dosya işlemleri olmak üzere ikiye ayrılır. Bu işlemler yapılırken
